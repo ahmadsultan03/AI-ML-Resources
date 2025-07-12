@@ -30,4 +30,4 @@ The repository is organized into the following categories:
 
 ## 🚀 Getting Started
 
- **Private Repo**: Hehehe :)
+ **Resources Added in .gitignore file**: Hehehe :)
